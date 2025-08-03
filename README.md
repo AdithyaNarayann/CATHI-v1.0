@@ -88,32 +88,7 @@ python run app.py
 
 
 
-##  Diagrams
 
-![Homepage](images/homepage.png)
-*Homepage — Shows all the ai card availlable.*
-![Report](images/report.png)
-*report button exist for someone who dosent exist.*
-![General GPT](images/general.png)
-*gives you confidently wrong useless answers with lazy sarcasm *
-![Roast GPT](images/roast.png)
-*Roasts you like your worst enemy at a family reunion.*
-![Indian Relative GPT](images/relative.png)
-*Gives unwanted advice like your nosy aunt.*
-![Baby GPT](images/baby.png)
-*Talks like a baby, understands like a rock .*
-![Sadboi GPT](images/sad.png)
-*Gets sadder the more you talk to it *
-![Conspiracy GPT](images/conspiracy.png)
-*Believes the moon landing was fake and your fridge is spying on you.*
-![Advice GPT](images/advice.png)
-*Offers the **worst life advice** imaginable*
-![Georgesir GPT](images/george.png)
-*Channels the **mass Malayalam cop energy** with iconic lines like*
-
-
-
-![Workflow](images/workflow.jpeg) 
 ##  Project Structure - UselessGPT
 
 ### Description of Key Folders and Files
